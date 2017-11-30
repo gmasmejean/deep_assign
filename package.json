@@ -1,0 +1,27 @@
+{
+  "name": "recursive-assign",
+  "version": "1.0.0",
+  "description": "Like Object.assign but merges recursively objects properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmasmejean/recursiveAssign.git"
+  },
+  "keywords": [
+    "Object.assign",
+    "assign",
+    "merge",
+    "properties",
+    "deep",
+    "copy"
+  ],
+  "author": "gmasmejean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmasmejean/recursiveAssign/issues"
+  },
+  "homepage": "https://github.com/gmasmejean/recursiveAssign#readme"
+}
