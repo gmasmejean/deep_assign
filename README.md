@@ -1,5 +1,9 @@
 # recursiveAssign
 
+Install:
+
+run "npm install recursive-object-assign --save"
+
 Usage:
 
 let recursiveAssign = require('recursiveAssign'),

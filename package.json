@@ -1,5 +1,5 @@
 {
-  "name": "recursive-assign",
+  "name": "recursive-object-assign",
   "version": "1.0.0",
   "description": "Like Object.assign but merges recursively objects properties.",
   "main": "index.js",
