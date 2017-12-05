@@ -1,4 +1,5 @@
 # recursiveAssign
+[![npm version](https://badge.fury.io/js/recursive-object-assign.svg)](https://badge.fury.io/js/recursive-object-assign)
 
 Install:
 
