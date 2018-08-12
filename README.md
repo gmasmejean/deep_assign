@@ -7,7 +7,7 @@ run "npm install recursive-object-assign --save"
 
 Usage:
 
-let recursiveAssign = require('recursiveAssign'),
+let recursiveAssign = require('recursive-object-assign'),
     a = {b:'value',c:{a:1}},
     b = {a:'hello',c:{a:'world',o:'test'}};
 
